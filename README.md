@@ -22,9 +22,5 @@
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **Email:** yourname@email.com  
 
 ✨ *Always learning, always building innovative solutions.*  
